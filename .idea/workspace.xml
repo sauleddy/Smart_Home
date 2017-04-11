@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0208adb3-f880-43c7-aad6-abdfe9e83ecc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/python" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/python3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/python3.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/t32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/t64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/w32.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/w64.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libFLAC-54bf3553.so.8.3.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libSDL-1-9a9431b0.2.so.0.11.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libSDL_image-1-6e69643a.2.so.0.8.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libSDL_mixer-1-ec459934.2.so.0.12.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libSDL_ttf-2-a37ff1d4.0.so.0.10.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libasound-95d13a7d.so.2.0.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libcap-5fec18ee.so.1.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libdbus-1-30e56626.so.3.4.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libfluidsynth-c29b5c1f.so.1.5.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libfreetype-56747121.so.6.12.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libjpeg-bd53fca1.so.62.0.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libmikmod-fabcac29.so.2.0.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libogg-c60f4c4b.so.0.8.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libpng16-6d605bc4.so.16.23.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libportmidi-bda42951.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libsmpeg-0-83e21435.4.so.0.1.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libsndfile-d5ecee11.so.1.0.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libtiff-97e44e95.so.3.8.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libvorbis-7feb4b9b.so.0.4.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libvorbisfile-f207f3a6.so.3.3.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libwebp-0851406f.so.6.0.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/.libs/libz-a147dcb0.so.1.2.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_camera.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_freetype.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/base.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/bufferproxy.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/cdrom.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/color.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/constants.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/display.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/pygame_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/pygame_powered.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/pygame_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/pygame_tiny.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/draw.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/event.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/alien3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/arraydemo.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/asprite.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/blue.mpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/bomb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/boom.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/brick.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/car_door.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/chimp.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/city.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/danger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/explosion1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/fist.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/house_lo.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/house_lo.ogg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/house_lo.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/liquid.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/midikeys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/oldplayer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/player1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/punch.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/sans.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/secosmic_lo.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/shot.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/static.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/whiff.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/data/yuv_1.pgm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/keyedobjects.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/aliens.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/fastevent.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/font.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/freesansbold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/gfxdraw.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/image.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/imageext.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/joystick.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/key.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/mask.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/math.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/mixer.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/mixer_music.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/mouse.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/newbuffer.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/overlay.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pixelarray.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pixelcopy.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pygame.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pygame_icon.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pygame_icon.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pygame_icon.tiff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pypm.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/rect.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/rwobject.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/scrap.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/surface.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/surflock.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/PyGameMono.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/test_fixed.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/test_sans.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/xbm_cursors/white_sizing_mask.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/time.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/transform.cpython-34m.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/setuptools-18.1-py3.4.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Smart_Home.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_Assistance/Mouth/MouthBase.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Home_Assistance/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/activate.csh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/activate.fish" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/easy_install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/easy_install-3.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/gtts-cli" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/gtts-cli.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/pip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/pip3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/pip3.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/_camera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/_pygame.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/_surface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/bitmask.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/camera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/fastevents.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/font.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/freetype.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/mask.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/mixer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/pgarrinter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/pgbufferproxy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/pgcompat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/pgopengl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/pygame.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/scrap.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/site/python3.4/pyGame/surface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/easy-install.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS-1.1.8.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gTTS_token-1.1.1.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts/tts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts_token/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts_token/gtts_token.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/gtts_token/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip-9.0.1.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/appdirs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/_cmd.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/controller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/database.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/locators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/distro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_ihatexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_inputstream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_tokenizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_trie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_trie/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_trie/datrie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_trie/py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/serializer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treebuilders/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/ipaddress.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/ordereddict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/_structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/requirements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/packaging/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/progress/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/progress/bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/progress/counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/progress/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/progress/spinner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/pyparsing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/re-vendor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/contrib/socks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/retrying.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/webencodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/webencodings/labels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/webencodings/mklabels.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/webencodings/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/_vendor/webencodings/x_user_defined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/basecommand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/baseparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/cmdoptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/check.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/completion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/hash.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/help.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/show.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/commands/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/compat/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/compat/dictconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/locations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/models/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/operations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/operations/check.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/operations/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/req/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/req/req_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/req/req_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/req/req_set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/req/req_uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/appdirs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/deprecation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/encoding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/filesystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/glibc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/hashes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/logging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/outdated.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/packaging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/setuptools_build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/utils/ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/vcs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/vcs/bazaar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/vcs/git.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/vcs/mercurial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/vcs/subversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pip/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame-1.9.3.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/LGPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_camera_opencv_highgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_camera_vidcapture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_dummybackend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_numpysndarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/_numpysurfarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/camera.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/colordict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/cursors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/logos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/docs/ref/docscomments.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/aacircle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/aliens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/arraydemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/blend_fill.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/blit_blends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/camera.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/chimp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/cursors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/eventlist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/fastevents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/fonty.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/freetype_misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/glcube.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/headless_no_windows_needed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/liquid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/JavaCompiling.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/_MainMenu_EOArchive_English.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/classes.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/English.lproj/MainMenu.nib/info.nib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/aliens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/aliens_app_example/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/macosx/macfont.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/mask.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/midi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/moveit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/oldalien.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/overlay.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/pixelarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/playmus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/prevent_display_stretching.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/scaletest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/scrap_clipboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/scroll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/sound.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/sound_array_demos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/stars.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/testsprite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/examples/vgrade.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/freetype.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/ftfont.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/gp2x/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/gp2x/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/gp2x/locals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/install.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/locals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/macosx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/midi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pkgdata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/pygame_icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/readme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/sndarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/sprite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/surfarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/sysfont.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/base_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/blit_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/bufferproxy_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/camera_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/cdrom_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/cdrom_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/color_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/compat_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/cursors_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/display_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/draw_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/event_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fastevent_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-100dpi.bdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/PyGameMono-18-75dpi.bdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/fixtures/fonts/PyGameMono-8.bdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/font_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/font_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/freetype_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/freetype_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/ftfont_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/ftfont_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/gfxdraw_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/image__save_gl_surface_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/image_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/image_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/imageext_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/imageext_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/joystick_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/key_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mask_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/math_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/midi_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/midi_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mixer_music_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mixer_music_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mixer_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mixer_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/mouse_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/overlay_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/pixelarray_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/pixelcopy_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/rect_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/fake_4_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/fake_5_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/fake_6_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/no_assertions__ret_code_of_1__test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/all_ok/zero_tests_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/everything/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/everything/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/everything/incomplete_todo_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/everything/magic_tag_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/everything/sleep_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/exclude/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/exclude/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/exclude/invisible_tag_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/exclude/magic_tag_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/failures1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/failures1/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/failures1/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/failures1/fake_4_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete_todo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/incomplete_todo/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/infinite_loop/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_1_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/infinite_loop/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stderr/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stderr/fake_4_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stdout/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/print_stdout/fake_4_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/run_tests__test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/timeout/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/timeout/fake_2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/run_tests__tests/timeout/sleep_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/rwobject_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/scrap_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/scrap_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/sndarray_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/sndarray_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/sprite_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/surface_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/surfarray_tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/surfarray_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/surflock_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/sysfont_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_test_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/arrinter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/async_sub.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/buftools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/endian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/png.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/run_tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/test_machinery.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/test_utils/test_runner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/threads_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/time_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/tests/transform_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/threads/Py25Queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/threads/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pygame/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/INSTALLER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet-1.2.4.dist-info/zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/carbon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/cocoa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/app/xlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/carbon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/cocoa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/xlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/canvas/xlib_vidmoderestore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/clock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/com.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/extlibs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/extlibs/png.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/carbon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/fontconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/freetype.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/freetype_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/quartz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/ttf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/font/win32query.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/agl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/carbon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/cocoa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/gl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/gl_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glext_arb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glext_nv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glu_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glx_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glxext_arb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glxext_mesa.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/glxext_nv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/lib_agl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/lib_glx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/lib_wgl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/wgl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/wgl_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/wglext_arb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/wglext_nv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/gl/xlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/graphics/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/graphics/allocation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/graphics/vertexattribute.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/graphics/vertexbuffer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/graphics/vertexdomain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/atlas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/bmp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/dds.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/gdiplus.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/gdkpixbuf2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/gif.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/pil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/png.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/quartz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/quicktime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/image/codecs/s3tc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/carbon_hid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/carbon_tablet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/darwin_hid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/directinput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/evdev.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/evdev_constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/wintab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/x11_xinput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/input/x11_xinput_tablet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/cocoapy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/cocoapy/cocoalibs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/cocoapy/cocoatypes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/cocoapy/runtime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/quartzkey.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/darwin/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/dinput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/libwintab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/win32/winkey.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/cursorfont.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/xf86vmode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/xinerama.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/xinput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/xlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/libs/x11/xsync.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/avbin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/directsound/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/directsound/lib_dsound.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/openal/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/openal/lib_alc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/openal/lib_openal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/pulse/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/pulse/lib_pulseaudio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/drivers/silent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/procedural.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/media/riff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/resource.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/sprite.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/caret.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/document.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/formats/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/formats/attributed.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/formats/html.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/formats/plaintext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/formats/structured.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/layout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/text/runlist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/carbon/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/pyglet_delegate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/pyglet_textview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/pyglet_view.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/pyglet_window.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/cocoa/systemcursor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/key.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/mouse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/win32/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/pyglet/window/xlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests-2.13.0.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/_internal_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/core.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/idnadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/intranges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/idna/uts46data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/contrib/appengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/contrib/socks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/backports/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/backports/makefile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/selectors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/packages/urllib3/util/wait.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/python3.4/site-packages/setuptools.pth" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pip-selfcheck.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyvenv.cfg" />
+    </list>
+    <ignored path="Smart_Home.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Smart_Home" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MouthGoogle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#92#123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Home_Assistance/Mouth/MouthBase.py" />
+        <option value="$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home_Assistance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Smart_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Home_Assistance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mouth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.MouthGoogle">
+    <configuration default="false" name="MouthGoogle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Home_Assistance/Mouth" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Smart_Home" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.MouthGoogle" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.MouthGoogle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0208adb3-f880-43c7-aad6-abdfe9e83ecc" name="Default" comment="" />
+      <created>1491811470936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491811470936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#92#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home_Assistance/Mouth/MouthBase.py" />
+    <entry file="file://$PROJECT_DIR$/Home_Assistance/Mouth/MouthGoogle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#92#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
